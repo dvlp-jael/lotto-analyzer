@@ -21,3 +21,6 @@ __pycache__/
 
 # AWS 액세스 키 파일
 lotto-analyzer-user_accessKeys.csv
+
+# 개인 메모
+_프로젝트 정리.txt
