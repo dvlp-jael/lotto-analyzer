@@ -1,0 +1,23 @@
+# 가상환경
+venv/
+
+# AWS 자격증명
+.aws/
+
+# 데이터 파일 (엑셀 원본)
+data/*.xlsx
+
+# 파이썬 캐시
+__pycache__/
+*.pyc
+*.pyo
+
+# 환경변수
+.env
+
+# AWS 액세스 키
+*accessKeys*
+*_credentials*
+
+# AWS 액세스 키 파일
+lotto-analyzer-user_accessKeys.csv
